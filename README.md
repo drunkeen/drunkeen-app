@@ -1,2 +1,2 @@
 # qiparty-app
-Ultimate utility app for perfectionist partygoers
+Ultimate app for perfectionist partygoers
