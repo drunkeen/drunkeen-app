@@ -1,2 +1,2 @@
-# qiparty-app
+# QiParty
 Ultimate app for perfectionist partygoers
